@@ -1,0 +1,80 @@
+baseurl = "https://www.atomickotlin.com"
+languageCode = "en-us"
+title = "Learning Resources for the Kotlin Programming Language"
+theme = "hugo-material-docs"
+metadataformat = "yaml"
+canonifyurls = true
+# Enable Google Analytics by entering your tracking id
+googleAnalytics = ""
+
+[params]
+	# General information
+	# author = "Bruce Eckel"
+	description = "Support Resources for the book On Java 8"
+
+	logo = "/images/AtomicKotlin-circle.png"
+	favicon = "/images/favicon.ico?"
+	banner_image = "/images/AtomicKotlinBanner.png"
+
+	permalink = "#"
+
+	# Custom assets
+	custom_css = []
+	custom_js  = []
+
+	# Syntax highlighting theme
+	highlight_css  = ""
+
+	[params.palette]
+    	primary = "#18ADFB"
+    	accent  = "#18ADFB"
+    	header_color = "#18ADFB"
+    	footer_color = "#18ADFB"
+    	h1_ruler_color= "#18ADFB"
+
+    [params.font]
+    	text = "Ubuntu"
+    	code = "Ubuntu Mono"
+
+
+[social]
+	#twitter = ""
+	#github  = "AtomicKotlin/AtomicKotlin-hugo"
+	email   = "mindviewinc@gmail.com"
+
+[[menu.main]]
+  name   = "Atomic Kotlin"
+  url    = "atomickotlin/"
+  weight = 10
+
+[[menu.main]]
+  name   = "Table of Contents"
+  url    = "contents/"
+  weight = 20
+
+[[menu.main]]
+  name   = "eBook"
+  url    = "ebook/"
+  weight = 40
+
+[[menu.main]]
+  name   = "Examples"
+  url    = "examples/"
+  weight = 60
+
+[[menu.main]]
+  name   = "Supplements"
+  url    = "supplements/"
+  weight = 70
+
+[[menu.main]]
+	name   = "About"
+	url    = "about/"
+	weight = 200
+
+
+[blackfriday]
+	smartypants	= true
+	fractions = true
+	smartDashes = true
+	plainIDAnchors = true
