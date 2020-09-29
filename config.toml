@@ -14,7 +14,7 @@ googleAnalytics = ""
 
 	logo = "/images/OnJava8-circle.png"
 	favicon = "/images/favicon.ico?"
-	banner_image = "/images/AtomicKotlinBanner.png"
+	banner_image = "/images/OnJava8Banner.png"
 
 	permalink = "#"
 
