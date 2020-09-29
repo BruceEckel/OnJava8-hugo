@@ -13,8 +13,8 @@ googleAnalytics = ""
 	description = "Support Resources for the book On Java 8"
 
 	logo = "/images/OnJava8-circle.png"
-	favicon = "/images/favicon.ico?"
-	banner_image = "/images/OnJava8Banner.png"
+	favicon = "/images/favicon.png?"
+	banner_image = "/images/OnJava8Banner.jpg"
 
 	permalink = "#"
 
