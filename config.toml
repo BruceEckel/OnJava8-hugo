@@ -1,6 +1,6 @@
 # baseurl = "https://affectionate-jang-3cb06f.netlify.app/"
 languageCode = "en-us"
-title = "Support Resources for the book On Java 8"
+title = "On Java 8 by Bruce Eckel"
 theme = "hugo-material-docs"
 metadataformat = "yaml"
 canonifyurls = true
