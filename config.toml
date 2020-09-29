@@ -48,11 +48,6 @@ googleAnalytics = ""
   weight = 10
 
 [[menu.main]]
-  name   = "Table of Contents"
-  url    = "contents/"
-  weight = 20
-
-[[menu.main]]
   name   = "eBook"
   url    = "ebook/"
   weight = 40
