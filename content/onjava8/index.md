@@ -13,7 +13,7 @@ the same time, the book *does* assume you are able to figure things out. It's
 not a "dummies" or "idiot's" guide.
 
 This book is too large to be published as a single volume so it is currently
-published only [as an eBook]({{< ref "/content/ebook" >}} "On Java 8 eBook")
+published only [as an eBook]({{< ref "/ebook" >}} "On Java 8 eBook")
 
 Here's the front cover:
 
