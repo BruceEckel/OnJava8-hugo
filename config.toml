@@ -1,4 +1,4 @@
-# baseurl = "https://www.atomickotlin.com"
+# baseurl = "https://affectionate-jang-3cb06f.netlify.app/"
 languageCode = "en-us"
 title = "Support Resources for the book On Java 8"
 theme = "hugo-material-docs"
@@ -43,8 +43,8 @@ googleAnalytics = ""
 	email   = "mindviewinc@gmail.com"
 
 [[menu.main]]
-  name   = "Atomic Kotlin"
-  url    = "atomickotlin/"
+  name   = "On Java 8"
+  url    = "onjava8/"
   weight = 10
 
 [[menu.main]]
