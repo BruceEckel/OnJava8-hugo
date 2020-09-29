@@ -12,7 +12,7 @@ googleAnalytics = ""
 	# author = "Bruce Eckel"
 	description = "Support Resources for the book On Java 8"
 
-	logo = "/images/AtomicKotlin-circle.png"
+	logo = "/images/OnJava8-circle.png"
 	favicon = "/images/favicon.ico?"
 	banner_image = "/images/AtomicKotlinBanner.png"
 
