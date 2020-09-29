@@ -1,23 +1,18 @@
 ---
-title: Atomic Kotlin
+title: On Java 8
 type: index
 weight: 10
 ---
 
-***Atomic Kotlin*** is the book and associated learning resources by Bruce
-Eckel and Svetlana Isakova.
+***On Java 8*** is the book by Bruce Eckel that covers version 8 of the Java
+programming language.
 
-September 1, 2020: The eBook is finished and published on
-[Leanpub](https://leanpub.com/AtomicKotlin). The Stepik version will be
-available soon, and the print book should appear within the next couple of
-months.
+This book is intended for "dedicated beginners." It doesn't assume you know
+anything about programming and takes you through the material step-by-step. At
+the same time, the book *does* assume you are able to figure things out. It's
+not a "dummies" or "idiot's" guide.
 
-### Announcement during the October 2018 KotlinConf opening keynote:<br/><br/>
+This book is too large to be published as a single volume so it is currently
+published only as an eBook.
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/PsaFVLr8t4E?t=2362">
-</iframe>
-
-### Current version of the cover for the (upcoming) print book:
-
-![Atomic Kotlin Book Cover](/images/BookCover.png)
+![On Java 8 Front Cover](/images/BookCover.png)
