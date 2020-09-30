@@ -8,10 +8,7 @@ These are supplements referenced in the book's ***Appendix: Supplements***:
 On Java 8 Example Code
 ----------------------
 
-The code for this book is freely available for download
-[here](https://github.com/BruceEckel/Onjava8-examples/).
-This includes the Gradle build files and other support files necessary for a
-successful build and execution of all the examples in the book.
+See [here]({{< ref "/examples" >}}) for the example code.
 
 Thinking in C: Foundations for Java
 -----------------------------------
