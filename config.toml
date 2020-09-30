@@ -1,4 +1,5 @@
-baseurl = "https://affectionate-jang-3cb06f.netlify.app/"
+# baseurl = "https://affectionate-jang-3cb06f.netlify.app/"
+baseurl = "https://www.onjava8.com/"
 languageCode = "en-us"
 title = "On Java 8 by Bruce Eckel"
 theme = "hugo-material-docs"
