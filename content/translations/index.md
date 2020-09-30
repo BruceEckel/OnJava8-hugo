@@ -42,8 +42,6 @@ distributor or bookseller (wholesale)?
 
 Github Markdown for Leanpub
 
-AtomicKotlin EDU
-
 ## Cover Artwork
 
 - Reusability
