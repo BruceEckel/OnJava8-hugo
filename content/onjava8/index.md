@@ -17,4 +17,4 @@ published only [as an eBook]({{< ref "/ebook" >}} "On Java 8 eBook")
 
 Here's the front cover:
 
-![On Java 8 Front Cover](/images/BookCover.png)
+![On Java 8 Front Cover](/images/BookCover-web.png)
