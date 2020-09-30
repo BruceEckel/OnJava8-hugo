@@ -3,7 +3,7 @@ title: Supplements
 weight: 70
 ---
 
-These are supplements referenced in the book's *Appendix: Supplements*:
+These are supplements referenced in the book's ***Appendix: Supplements***:
 
 On Java 8 Example Code
 ----------------------
