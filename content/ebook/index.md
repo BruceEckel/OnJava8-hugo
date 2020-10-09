@@ -5,8 +5,7 @@ weight: 40
 
 The book is available on [Leanpub](https://leanpub.com/onjava8).
 
-That site includes an extensive free sample in all formats and a table of
-contents.
+That site includes a free sample in all formats along with a table of contents.
 
 Leanpub formats include:
 
