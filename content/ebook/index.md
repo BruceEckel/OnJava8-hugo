@@ -21,5 +21,5 @@ The book was initially published in 2017 on Google Play Books at
 [This Link](https://play.google.com/store/books/details?id=p4ytDgAAQBAJ),
 which is still active, but only to support previous purchasers of the book.
 
-We recommend using the [Leanpub Version](https://leanpub.com/onjava8) instead,
-unless you are a particular fan of Google Play Books.
+If you want to use Google Play Books anyway, get the Leanpub version and
+upload the EPUB to your Google Play Books account.
