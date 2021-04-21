@@ -5,7 +5,7 @@ weight: 60
 
 All the examples from *On Java 8* are available from this repository:
 
-> [On Java 8 Examples](https://github.com/BruceEckel/OnJava8-Examples)
+> [On Java 8 Examples](https://github.com/BruceEckel/OnJava8-Examples#examples-for-on-java-8-by-bruce-eckel)
 
 You can compile, run, and test the examples using standalone tools on the
 command line. The README for that repository contains complete instructions for
