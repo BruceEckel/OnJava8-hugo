@@ -7,9 +7,11 @@ All the examples from *On Java 8* are available from this repository:
 
 > [On Java 8 Examples](https://github.com/BruceEckel/OnJava8-Examples#examples-for-on-java-8-by-bruce-eckel)
 
+The README for that repository contains complete instructions for configuring
+and running the code.
+
 You can compile, run, and test the examples using standalone tools on the
-command line. The README for that repository contains complete instructions for
-configuring and running the code.
+command line.
 
 The examples in the repository are created using an automatic process that
 extracts the examples directly from the book. The repository includes a test of
