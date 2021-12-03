@@ -4,8 +4,9 @@ type: index
 weight: 10
 ---
 
-***On Java 8*** is the book by Bruce Eckel that covers version 8 of the Java
-programming language.
+***On Java 8*** covers version 8 of the Java programming language. The author,
+Bruce Eckel, also wrote
+[Thinking in Java](https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486).
 
 This book is intended for "dedicated beginners." It doesn't assume you know
 anything about programming and takes you through the material step-by-step. At
