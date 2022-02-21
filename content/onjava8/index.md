@@ -4,12 +4,12 @@ type: index
 weight: 10
 ---
 
-***On Java 8*** covers version 8 of the Java programming language. The author,
-Bruce Eckel, also wrote
-[Thinking in Java](https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486).
+***On Java 8*** covers version 8 of the Java programming language.
+Version 2 (December 2021) includes independent supplemental subsections that cover **features through Java 17**. 
+These can be seen in the table of contents, in subsection titles that start with ***New Feature:***.
 
-Version 2 (December 2021) includes independent supplemental subsections that **cover features through Java 17**. 
-These can be seen in the table of contents, in subsection titles beginning with "New Feature:".
+The author, Bruce Eckel, also wrote
+[Thinking in Java](https://www.amazon.com/Thinking-Java-4th-Bruce-Eckel/dp/0131872486).
 
 This book is intended for "dedicated beginners." It doesn't assume you know
 anything about programming and takes you through the material step-by-step. At
